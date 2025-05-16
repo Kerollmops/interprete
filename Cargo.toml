@@ -1,6 +1,9 @@
 [package]
 name = "interprete"
 description = "A tool to chat with a bunch of LLMs"
+documentation = "https://docs.rs/interprete"
+repository = "https://github.com/meilisearch/meilisearch"
+license-file = "LICENSE"
 version = "0.0.0"
 edition = "2024"
 
