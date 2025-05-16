@@ -1,0 +1,7 @@
+[package]
+name = "interprete"
+description = "A tool to chat with a bunch of LLMs"
+version = "0.0.0"
+edition = "2024"
+
+[dependencies]
